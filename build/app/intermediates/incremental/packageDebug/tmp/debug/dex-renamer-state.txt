@@ -1,0 +1,4 @@
+#Sat May 18 16:53:22 WIB 2019
+base.0=/home/irfan/Flutter/flutter_aej_news/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
